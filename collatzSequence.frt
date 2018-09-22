@@ -1,4 +1,4 @@
-: collatsSequence
+: collatzSequence
 	  dup . ."  "
     dup 1 <> if
         0
